@@ -194,7 +194,7 @@ st.write(fig)
 final_df=helper.get_Data1('Data/final_df.csv')
     #st.write(final_df)
 st.header("Regression Plots.")
-    #import statsmodels.api as sm
+import statsmodels.api as sm
 
 new_cols = ['engine_size', 'cylinders',
                 'transmission', 'fuel_type', 'fuel_consumption_city',
