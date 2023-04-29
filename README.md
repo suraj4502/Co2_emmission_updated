@@ -1,9 +1,12 @@
 
-# Carbon Dioxide Emission Prediction.       
+# Carbon Dioxide Emission Prediction.   
 
-The main aim of the project is to predict the CO2 emmitted
-from a vehicle using certain features of the car(vehicle).
-  [WebApp Link ](https://suraj4502-co2-emmission-updated---home-c91abw.streamlit.app/)
+[WebApp Link ](https://suraj4502-co2-emmission-updated---home-c91abw.streamlit.app/)
+
+- The CO2 Emission Prediction project is a machine learning-based solution that aims to predict the CO2 emissions of a car based on various features such as engine size, fuel consumption, and transmission type. 
+- The project uses a dataset containing information about a large number of vehicles and their corresponding CO2 emissions to train a regression model.
+- The trained model can then be used to predict the CO2 emissions of new vehicles based on their features. 
+- This project can be useful for car manufacturers and regulators to understand the impact of various features on CO2 emissions and to make more informed decisions about vehicle design and policy.
 
 The dataset had around 7k datapoints regarding cars and its
 features and the corresponding co2 emmission value.
